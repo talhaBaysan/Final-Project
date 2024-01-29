@@ -1,0 +1,10 @@
+Veri seti, Database klasoründe verilen linkten indirilerek kullanılabilir. 
+İndirilen veri seti Google Drive ortamına yüklenmelidir.
+
+Misc içerisinde verilen kütüphaneler indirilmelidir. Hazırlanan modeller 
+Kaggle ortamında veri setinin yüklü olduğu Kaggle ile
+bağlantısı kurularak çalıştırılabilir.
+
+Derin Metrik öğrenme modelleri Kaggle'da çalıştırılmalıdır. Yüksek RAM, CPU ve 
+GPU gereksinimi bulunmaktadır. Geleneksel Metrik öğrenme modelleri ise bilgisayar
+üzerine kurulan Jupyter Notebook üzerinde çalıştırılabilir.

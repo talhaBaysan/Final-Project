@@ -1,0 +1,5 @@
+Projemizde kullanılan;
+Pavia Üniversitesi Veri Seti Linki:
+https://www.kaggle.com/datasets/syamkakarla/pavia-university-hsi/data
+Indian Pines Veri Seti Linki:
+https://www.kaggle.com/datasets/abhijeetgo/indian-pines-hyperspectral-dataset

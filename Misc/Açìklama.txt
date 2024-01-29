@@ -1,0 +1,23 @@
+Hazırlanan kodlar Python programlama dili hazırlanmıştır. 
+
+Kaggle ortamlarında platform bağımsız çalıştırılabilir. Veri setleri 
+Kaggle ortamına kaydedilmesi gerekmektedir.
+
+Veri setleri, Database klasoründe verilen linkten indirilerek kullanılabilir.
+
+Hazırlanan kodları kullanabilmek için indirilmesi gereken python kütüphaneleri:
+os
+pickle
+PIL
+torch
+earthpy
+sklearn
+scipy.io
+numpy
+matplotlib
+tqdm
+tensorflow
+keras
+nltk
+json
+spectral
